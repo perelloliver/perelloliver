@@ -28,7 +28,8 @@ Hey, I'm @perelloliver, I'm an AI Specialist working at the intersection of game
 - ☁️ Cloud: AWS, Azure, GCP
 
 ## Contact
-- 📧 wood.h.oliver (at) gmail (dot) com
-- 🔗 LinkedIn
+- 🦋 [Bluesky](https://bsky.app/profile/perelloliver.bsky.social)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oliverhwood/)
+- 
 
 *Currently building next-gen AI experiences for games and entertainment @ Those Beyond*
