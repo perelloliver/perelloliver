@@ -1,0 +1,33 @@
+# Oliver Wood
+Hey, I'm @perelloliver, I'm an AI Specialist working at the intersection of games, entertainment, and artificial intelligence.
+
+## About Me
+- 🎮 AI Specialist at Those Beyond
+- 🎓 MSc in Data Science & AI (2023, Creative Computing Institute, UAL, Distinction)
+- 📝 Presented at NeurIPS (2023) and CHI (2024)
+- 🔧 Expertise in LLMs, generative AI, creative ML and AI-UX
+- 🎨 Background in computational art and creative technology
+
+## Research
+- [Setting Switcher](https://neurips.cc/virtual/2023/75066) - Dynamic genre-switching in text games with generative agents (NeurIPS Workshop on Creativity & Design, 2023)
+- [Loremaster](https://generativeaiandhci.github.io/papers/2024/genaichi2024_5.pdf) - Mixed-initiative content co-creation system (CHI Generative AI+HCI workshop, 2024)
+
+## Expertise
+- Production-grade chatbots and interactive AI systems
+- Content moderation and classification systems
+- RAG architectures and knowledge retrieval
+- Advanced prompt engineering and LLM optimization
+- Complex AI system design and infrastructure
+- Multi-agent systems and AI orchestration
+
+## Tech Stack
+- 🤖 Machine Learning: PyTorch, TensorFlow, Keras
+- 📊 Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn etc
+- 🔧 LLM Tools: LangChain, Claude, GPT, Cohere, Mistral
+- ☁️ Cloud: AWS, Azure, GCP
+
+## Contact
+- 📧 wood.h.oliver (at) gmail (dot) com
+- 🔗 LinkedIn
+
+*Currently building next-gen AI experiences for games and entertainment @ Those Beyond*
