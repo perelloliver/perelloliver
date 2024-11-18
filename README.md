@@ -14,6 +14,7 @@ Hey, I'm @perelloliver, I'm an AI Specialist working at the intersection of game
 
 ## Expertise
 - Production-grade chatbots and interactive AI systems
+- AI for entertainment at scalable cost
 - Content moderation and classification systems
 - RAG architectures and knowledge retrieval
 - Advanced prompt engineering and LLM optimization
