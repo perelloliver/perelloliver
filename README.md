@@ -24,6 +24,7 @@ Hey, I'm @perelloliver, I'm an AI Specialist working at the intersection of game
 ## Tech Stack
 - 🤖 Machine Learning: PyTorch, TensorFlow, Keras
 - 📊 Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn etc
+- 🛠️ Engineering: FastAPI, Docker, Git, System Design
 - 🔧 LLM Tools: LangChain, Claude, GPT, Cohere, Mistral
 - ☁️ Cloud: AWS, Azure, GCP
 
