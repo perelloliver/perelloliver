@@ -9,7 +9,7 @@ Hey, I'm @perelloliver, I'm an AI Specialist working at the intersection of game
 - 🎨 Background in computational art and creative technology
 
 ## Research
-- [Setting Switcher](https://neurips.cc/virtual/2023/75066) - Dynamic genre-switching in text games with generative agents (NeurIPS Workshop on Creativity & Design, 2023)
+- [Setting Switcher](https://neurips.cc/virtual/2023/75066) - LLM-powered genre switching (fantasy -> scifi, etc) of live text-based games (NeurIPS Workshop on Creativity & Design, 2023)
 - [Loremaster](https://generativeaiandhci.github.io/papers/2024/genaichi2024_5.pdf) - Mixed-initiative content co-creation system (CHI Generative AI+HCI workshop, 2024)
 
 ## Expertise
